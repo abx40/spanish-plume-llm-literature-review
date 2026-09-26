@@ -1,0 +1,169 @@
+model,year,cited,not_cited
+NotebookLM,1968,2,0
+NotebookLM,1969,0,0
+NotebookLM,1970,0,0
+NotebookLM,1971,0,0
+NotebookLM,1972,0,0
+NotebookLM,1973,0,0
+NotebookLM,1974,0,0
+NotebookLM,1975,0,0
+NotebookLM,1976,0,0
+NotebookLM,1977,0,0
+NotebookLM,1978,0,0
+NotebookLM,1979,0,0
+NotebookLM,1980,0,0
+NotebookLM,1981,0,0
+NotebookLM,1982,0,0
+NotebookLM,1983,0,0
+NotebookLM,1984,0,0
+NotebookLM,1985,0,0
+NotebookLM,1986,1,0
+NotebookLM,1987,0,0
+NotebookLM,1988,0,0
+NotebookLM,1989,0,0
+NotebookLM,1990,0,0
+NotebookLM,1991,0,0
+NotebookLM,1992,0,0
+NotebookLM,1993,1,0
+NotebookLM,1994,0,0
+NotebookLM,1995,2,0
+NotebookLM,1996,1,2
+NotebookLM,1997,0,3
+NotebookLM,1998,3,1
+NotebookLM,1999,0,2
+NotebookLM,2000,0,0
+NotebookLM,2001,0,1
+NotebookLM,2002,0,0
+NotebookLM,2003,1,2
+NotebookLM,2004,0,0
+NotebookLM,2005,1,2
+NotebookLM,2006,2,0
+NotebookLM,2007,0,2
+NotebookLM,2008,0,0
+NotebookLM,2009,0,1
+NotebookLM,2010,1,1
+NotebookLM,2011,0,1
+NotebookLM,2012,2,3
+NotebookLM,2013,1,6
+NotebookLM,2014,0,3
+NotebookLM,2015,2,2
+NotebookLM,2016,1,4
+NotebookLM,2017,4,4
+NotebookLM,2018,1,3
+NotebookLM,2019,1,5
+NotebookLM,2020,4,2
+NotebookLM,2021,3,5
+NotebookLM,2022,2,5
+NotebookLM,2023,5,1
+Codex,1968,2,0
+Codex,1969,0,0
+Codex,1970,0,0
+Codex,1971,0,0
+Codex,1972,0,0
+Codex,1973,0,0
+Codex,1974,0,0
+Codex,1975,0,0
+Codex,1976,0,0
+Codex,1977,0,0
+Codex,1978,0,0
+Codex,1979,0,0
+Codex,1980,0,0
+Codex,1981,0,0
+Codex,1982,0,0
+Codex,1983,0,0
+Codex,1984,0,0
+Codex,1985,0,0
+Codex,1986,1,0
+Codex,1987,0,0
+Codex,1988,0,0
+Codex,1989,0,0
+Codex,1990,0,0
+Codex,1991,0,0
+Codex,1992,0,0
+Codex,1993,1,0
+Codex,1994,0,0
+Codex,1995,1,1
+Codex,1996,0,3
+Codex,1997,0,3
+Codex,1998,2,2
+Codex,1999,0,2
+Codex,2000,0,0
+Codex,2001,1,0
+Codex,2002,0,0
+Codex,2003,0,3
+Codex,2004,0,0
+Codex,2005,1,2
+Codex,2006,2,0
+Codex,2007,0,2
+Codex,2008,0,0
+Codex,2009,0,1
+Codex,2010,1,1
+Codex,2011,0,1
+Codex,2012,2,3
+Codex,2013,2,5
+Codex,2014,1,2
+Codex,2015,0,4
+Codex,2016,1,4
+Codex,2017,2,6
+Codex,2018,0,4
+Codex,2019,0,6
+Codex,2020,1,5
+Codex,2021,4,4
+Codex,2022,0,7
+Codex,2023,2,4
+Claude Opus 5,1968,2,0
+Claude Opus 5,1969,0,0
+Claude Opus 5,1970,0,0
+Claude Opus 5,1971,0,0
+Claude Opus 5,1972,0,0
+Claude Opus 5,1973,0,0
+Claude Opus 5,1974,0,0
+Claude Opus 5,1975,0,0
+Claude Opus 5,1976,0,0
+Claude Opus 5,1977,0,0
+Claude Opus 5,1978,0,0
+Claude Opus 5,1979,0,0
+Claude Opus 5,1980,0,0
+Claude Opus 5,1981,0,0
+Claude Opus 5,1982,0,0
+Claude Opus 5,1983,0,0
+Claude Opus 5,1984,0,0
+Claude Opus 5,1985,0,0
+Claude Opus 5,1986,1,0
+Claude Opus 5,1987,0,0
+Claude Opus 5,1988,0,0
+Claude Opus 5,1989,0,0
+Claude Opus 5,1990,0,0
+Claude Opus 5,1991,0,0
+Claude Opus 5,1992,0,0
+Claude Opus 5,1993,1,0
+Claude Opus 5,1994,0,0
+Claude Opus 5,1995,2,0
+Claude Opus 5,1996,2,1
+Claude Opus 5,1997,0,3
+Claude Opus 5,1998,3,1
+Claude Opus 5,1999,1,1
+Claude Opus 5,2000,0,0
+Claude Opus 5,2001,1,0
+Claude Opus 5,2002,0,0
+Claude Opus 5,2003,0,3
+Claude Opus 5,2004,0,0
+Claude Opus 5,2005,2,1
+Claude Opus 5,2006,1,1
+Claude Opus 5,2007,2,0
+Claude Opus 5,2008,0,0
+Claude Opus 5,2009,1,0
+Claude Opus 5,2010,2,0
+Claude Opus 5,2011,0,1
+Claude Opus 5,2012,4,1
+Claude Opus 5,2013,4,3
+Claude Opus 5,2014,2,1
+Claude Opus 5,2015,3,1
+Claude Opus 5,2016,3,2
+Claude Opus 5,2017,8,0
+Claude Opus 5,2018,4,0
+Claude Opus 5,2019,5,1
+Claude Opus 5,2020,6,0
+Claude Opus 5,2021,7,1
+Claude Opus 5,2022,6,1
+Claude Opus 5,2023,6,0

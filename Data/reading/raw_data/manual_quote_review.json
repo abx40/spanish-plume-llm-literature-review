@@ -1,0 +1,13 @@
+{
+  "NotebookLM": {
+    "verbatim_extraction_false_negatives": [
+      "SP006", "SP013", "SP014", "SP048", "SP062", "SP099"
+    ],
+    "altered_wording": [
+      "SP009", "SP010", "SP017", "SP019", "SP020", "SP028", "SP087"
+    ]
+  },
+  "Claude": {
+    "verbatim_on_stated_page": ["SP048"]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "Codex": {
+    "passing_vs_substantive": {
+      "agree": 36,
+      "n": 102,
+      "kappa": 0.088,
+      "substantive_kept": 18,
+      "substantive_total": 18,
+      "demoted": [],
+      "passing_promoted": 66,
+      "passing_total": 84,
+      "model_called_passing": 18
+    },
+    "usage_flags": {
+      "airstream_agree": 66,
+      "pattern_agree": 72,
+      "n": 102,
+      "model_airstream": 62,
+      "model_pattern": 79
+    },
+    "configuration": {
+      "matched": 6,
+      "coded": 8,
+      "values": {
+        "SP033": "MODIFIED",
+        "SP042": "CLASSIC",
+        "SP061": "CLASSIC",
+        "SP066": "OTHER",
+        "SP072": "MODIFIED",
+        "SP079": "MODIFIED",
+        "SP083": "OTHER",
+        "SP091": "MODIFIED"
+      }
+    },
+    "prefrontal_trough": {
+      "present": 1,
+      "n": 102,
+      "caught": 1,
+      "benchmark": 7,
+      "caught_ids": [
+        "SP025"
+      ]
+    }
+  },
+  "NotebookLM": {
+    "passing_vs_substantive": {
+      "agree": 37,
+      "n": 102,
+      "kappa": 0.094,
+      "substantive_kept": 18,
+      "substantive_total": 18,
+      "demoted": [],
+      "passing_promoted": 65,
+      "passing_total": 84,
+      "model_called_passing": 19
+    },
+    "usage_flags": {
+      "airstream_agree": 72,
+      "pattern_agree": 65,
+      "n": 102,
+      "model_airstream": 14,
+      "model_pattern": 70
+    },
+    "configuration": {
+      "matched": 7,
+      "coded": 8,
+      "values": {
+        "SP033": "MODIFIED",
+        "SP042": "CLASSIC",
+        "SP061": "CLASSIC",
+        "SP066": "CLASSIC",
+        "SP072": "MODIFIED",
+        "SP079": "MODIFIED",
+        "SP083": "CLASSIC",
+        "SP091": "MODIFIED"
+      }
+    },
+    "prefrontal_trough": {
+      "present": 39,
+      "n": 102,
+      "caught": 6,
+      "benchmark": 7,
+      "caught_ids": [
+        "SP003",
+        "SP004",
+        "SP005",
+        "SP006",
+        "SP013",
+        "SP025"
+      ]
+    }
+  },
+  "Claude": {
+    "passing_vs_substantive": {
+      "agree": 68,
+      "n": 102,
+      "kappa": 0.342,
+      "substantive_kept": 18,
+      "substantive_total": 18,
+      "demoted": [],
+      "passing_promoted": 34,
+      "passing_total": 84,
+      "model_called_passing": 50
+    },
+    "usage_flags": {
+      "airstream_agree": 71,
+      "pattern_agree": 76,
+      "n": 102,
+      "model_airstream": 61,
+      "model_pattern": 59
+    },
+    "configuration": {
+      "matched": 7,
+      "coded": 8,
+      "values": {
+        "SP033": "MODIFIED",
+        "SP042": "CLASSIC",
+        "SP061": "CLASSIC",
+        "SP066": "CLASSIC+MODIFIED",
+        "SP072": "MODIFIED",
+        "SP079": "MODIFIED",
+        "SP083": "MODIFIED",
+        "SP091": "MODIFIED"
+      }
+    },
+    "prefrontal_trough": {
+      "present": 14,
+      "n": 102,
+      "caught": 4,
+      "benchmark": 7,
+      "caught_ids": [
+        "SP004",
+        "SP005",
+        "SP013",
+        "SP025"
+      ]
+    }
+  }
+}

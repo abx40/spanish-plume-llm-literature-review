@@ -1,0 +1,103 @@
+source_id,year,journal,benchmark_class,missed_manual_required,pooled_found
+SP001,1968,Tellus,essential,0,1
+SP002,1968,Meteorol. Mag,passing,0,0
+SP003,1986,Meteorological Magazine,essential,0,1
+SP004,1993,Weather,informative,1,0
+SP005,1995,Weather,informative,1,0
+SP006,1995,Weather,passing,1,0
+SP007,1996,Ann. Bull. Soc. Jersiaise,passing,0,0
+SP008,1996,Weather,passing,1,0
+SP009,1996,Weather,passing,1,0
+SP010,1997,Weather,passing,1,0
+SP011,1997,"Meteorological Applications: A journal of forecasting, practical applications, training techniques and modelling",passing,1,0
+SP012,1997,Weather and Forecasting,passing,0,1
+SP013,1998,Weather,passing,0,1
+SP014,1998,Meteorology and Atmospheric Physics,informative,0,1
+SP015,1998,METEOROLOGISCHE ZEITSCHRIFT-BERLIN-,passing,0,1
+SP016,1998,Weather,essential,1,0
+SP017,1999,Tellus A: Dynamic Meteorology and Oceanography,passing,0,1
+SP018,1999,Weather,passing,1,0
+SP019,2001,Atmospheric research,passing,0,1
+SP020,2003,Atmospheric research,passing,0,1
+SP021,2003,Weather,passing,1,0
+SP022,2003,Weather,passing,1,0
+SP023,2005,Monthly weather review,passing,0,1
+SP024,2005,Journal of Geophysical Research: Atmospheres,informative,0,1
+SP025,2005,Monthly Weather Review,passing,0,1
+SP026,2006,"Quarterly Journal of the Royal Meteorological Society: A journal of the atmospheric sciences, applied meteorology and physical oceanography",informative,1,0
+SP027,2006,"Quarterly Journal of the Royal Meteorological Society: A journal of the atmospheric sciences, applied meteorology and physical oceanography",passing,1,0
+SP028,2007,Journal of Geophysical Research: Atmospheres,passing,0,1
+SP029,2007,Global and Planetary Change,passing,0,1
+SP030,2009,Journal of Geophysical Research: Atmospheres,passing,1,0
+SP031,2010,Atmospheric Research,essential,0,1
+SP032,2010,Meteorologische Zeitschrift,passing,0,0
+SP033,2011,Weather,passing,1,0
+SP034,2012,Weather,informative,0,1
+SP035,2012,Atmospheric research,passing,0,1
+SP036,2012,Weather,passing,0,1
+SP037,2012,Weather,passing,1,0
+SP038,2012,Weather,passing,0,1
+SP039,2013,Atmospheric Research,passing,1,0
+SP040,2013,Weather and forecasting,informative,0,1
+SP041,2013,Atmospheric research,passing,1,0
+SP042,2013,Weather,passing,1,0
+SP043,2013,Weather,passing,0,1
+SP044,2013,Weather,passing,1,0
+SP045,2013,Weather,passing,1,0
+SP046,2014,International Journal of Climatology,informative,0,1
+SP047,2014,Int J Meteorology UK,passing,0,0
+SP048,2014,Weather,passing,0,1
+SP049,2015,Weather,passing,1,0
+SP050,2015,Monthly Weather Review,passing,0,1
+SP051,2015,International Journal of Climatology,passing,0,1
+SP052,2015,Quarterly Journal of the Royal Meteorological Society,passing,1,0
+SP053,2016,Quarterly Journal of the Royal Meteorological Society,passing,0,1
+SP054,2016,Weather,passing,1,0
+SP055,2016,Quarterly Journal of the Royal Meteorological Society,passing,1,0
+SP056,2016,Weather and Forecasting,passing,0,1
+SP057,2016,Atmospheric Research,passing,1,0
+SP058,2017,Quarterly Journal of the Royal Meteorological Society,passing,1,0
+SP059,2017,Quarterly Journal of the Royal Meteorological Society,passing,0,1
+SP060,2017,Int. J. Meteorol,passing,0,0
+SP061,2017,Weather,passing,0,1
+SP062,2017,Natural Hazards and Earth System Sciences,passing,0,1
+SP063,2017,Weather and Forecasting,passing,0,1
+SP064,2017,Meteorologische Zeitschrift,passing,0,1
+SP065,2017,Monthly Weather Review,passing,1,0
+SP066,2018,Weather,passing,0,1
+SP067,2018,Journal of Flood Risk Management,passing,0,0
+SP068,2018,Időjárás/Quarterly Journal of the Hungarian Meteorological Service,passing,0,1
+SP069,2018,Atmosphere,passing,1,0
+SP070,2019,Meteorological Applications,passing,1,0
+SP071,2019,Quarterly Journal of the Royal Meteorological Society,passing,0,1
+SP072,2019,Quarterly Journal of the Royal Meteorological Society,passing,0,1
+SP073,2019,Quarterly Journal of the Royal Meteorological Society,passing,0,1
+SP074,2019,Water,passing,0,1
+SP075,2019,Quarterly Journal of the Royal Meteorological Society,passing,0,1
+SP076,2020,Weather,informative,0,1
+SP077,2020,Atmosphere,informative,0,1
+SP078,2020,Meteorological Applications,passing,0,1
+SP079,2020,International Journal of Climatology,passing,0,1
+SP080,2020,Natural Hazards and Earth System Sciences,passing,0,1
+SP081,2020,Journal of Climate,passing,0,1
+SP082,2021,Weather,passing,0,1
+SP083,2021,Quarterly Journal of the Royal Meteorological Society,informative,0,1
+SP084,2021,Weather,passing,0,1
+SP085,2021,Weather,passing,0,1
+SP086,2021,Natural Hazards,passing,0,1
+SP087,2021,Weather and Climate Dynamics,passing,0,1
+SP088,2021,Journal of Physical Oceanography,passing,0,1
+SP089,2021,Weather,passing,1,0
+SP090,2022,International Journal of Climatology,informative,0,1
+SP091,2022,Weather,passing,0,1
+SP092,2022,International Journal of Climatology,passing,0,1
+SP093,2022,Geophysical Research Letters,passing,0,1
+SP094,2022,Quarterly Journal of the Royal Meteorological Society,passing,0,1
+SP095,2022,Weather and Forecasting,passing,0,1
+SP096,2022,Weather,passing,1,0
+SP097,2023,Weather,informative,1,0
+SP098,2023,Weather,passing,1,0
+SP099,2023,Weather,passing,1,0
+SP100,2023,Natural Hazards and Earth System Sciences,passing,0,1
+SP101,2023,Weather and Climate Dynamics [Discussions],passing,0,1
+SP102,2023,International Journal of Climatology,informative,0,1

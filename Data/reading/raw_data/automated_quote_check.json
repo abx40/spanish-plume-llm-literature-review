@@ -1,0 +1,174 @@
+{
+  "Codex": {
+    "rows": 102,
+    "quoted": 100,
+    "declined": 2,
+    "on_page": 100,
+    "journal_page": 0,
+    "wrong_page": 0,
+    "absent": 0,
+    "spliced": 0,
+    "short": 2,
+    "detail": {
+      "wrong_page": [],
+      "absent": [],
+      "declined": [
+        "SP015",
+        "SP047"
+      ],
+      "short": [
+        "SP021",
+        "SP075"
+      ],
+      "journal_page": [],
+      "spliced": []
+    }
+  },
+  "NotebookLM": {
+    "rows": 102,
+    "quoted": 101,
+    "declined": 1,
+    "on_page": 18,
+    "journal_page": 19,
+    "wrong_page": 51,
+    "absent": 13,
+    "spliced": 10,
+    "short": 0,
+    "detail": {
+      "wrong_page": [
+        "SP011",
+        "SP015",
+        "SP022",
+        "SP023",
+        "SP024",
+        "SP027",
+        "SP030",
+        "SP033",
+        "SP035",
+        "SP036",
+        "SP037",
+        "SP039",
+        "SP041",
+        "SP042",
+        "SP043",
+        "SP044",
+        "SP045",
+        "SP050",
+        "SP052",
+        "SP053",
+        "SP055",
+        "SP056",
+        "SP059",
+        "SP061",
+        "SP063",
+        "SP065",
+        "SP067",
+        "SP068",
+        "SP069",
+        "SP070",
+        "SP071",
+        "SP072",
+        "SP073",
+        "SP075",
+        "SP076",
+        "SP077",
+        "SP078",
+        "SP079",
+        "SP082",
+        "SP085",
+        "SP086",
+        "SP088",
+        "SP090",
+        "SP091",
+        "SP092",
+        "SP093",
+        "SP094",
+        "SP095",
+        "SP096",
+        "SP097",
+        "SP102"
+      ],
+      "absent": [
+        "SP006",
+        "SP009",
+        "SP010",
+        "SP013",
+        "SP014",
+        "SP017",
+        "SP019",
+        "SP020",
+        "SP028",
+        "SP048",
+        "SP062",
+        "SP087",
+        "SP099"
+      ],
+      "declined": [
+        "SP047"
+      ],
+      "short": [],
+      "journal_page": [
+        "SP002",
+        "SP003",
+        "SP005",
+        "SP008",
+        "SP012",
+        "SP016",
+        "SP018",
+        "SP021",
+        "SP031",
+        "SP032",
+        "SP034",
+        "SP038",
+        "SP040",
+        "SP054",
+        "SP064",
+        "SP080",
+        "SP089",
+        "SP098",
+        "SP100"
+      ],
+      "spliced": [
+        "SP001",
+        "SP039",
+        "SP045",
+        "SP060",
+        "SP061",
+        "SP065",
+        "SP067",
+        "SP069",
+        "SP096",
+        "SP097"
+      ]
+    }
+  },
+  "Claude": {
+    "rows": 102,
+    "quoted": 101,
+    "declined": 1,
+    "on_page": 97,
+    "journal_page": 0,
+    "wrong_page": 3,
+    "absent": 1,
+    "spliced": 0,
+    "short": 1,
+    "detail": {
+      "wrong_page": [
+        "SP011",
+        "SP042",
+        "SP058"
+      ],
+      "absent": [
+        "SP048"
+      ],
+      "declined": [
+        "SP047"
+      ],
+      "short": [
+        "SP039"
+      ],
+      "journal_page": [],
+      "spliced": []
+    }
+  }
+}
