@@ -11,7 +11,7 @@ and ratings are in that experiment's `raw_data/` subfolder.
 
 | Experiment | Raw data | Clean data |
 | --- | --- | --- |
-| `Data/discovery/` | Five open-search model reports. | Benchmark matches, journal recall, omission audit, and the `SPxxx` bibliographic crosswalk. |
+| `Data/discovery/` | Five open-search model reports. | Model matches, journal recall, and omission audit. The separately credited benchmark reference is in `benchmark/`. |
 | `Data/authentication/` | Codex and Claude Code search reports before and after university login. | Per-paper matches and before/after benchmark recall. |
 | `Data/reading/` | Three complete 102-row model-built evidence tables, the first automated quotation check, and manual review corrections. | Database scores and corrected per-paper coding/quotation verdicts. |
 | `Data/synthesis/` | Three raw ten-theme syntheses and anonymized per-theme reviewer ratings. | Reviewer means, citation coverage, and per-paper citation flags. |
@@ -19,6 +19,13 @@ and ratings are in that experiment's `raw_data/` subfolder.
 The locked prompt for each experiment is at `Data/<experiment>/prompt.md`.
 `Figures/images/` contains only the five figures in the manuscript;
 `Figures/plot_data/` contains the values plotted in each one.
+
+The discovery benchmark is adapted from [Schultz, Lowe, and Herrerias Azcue's
+2024 dataset](https://doi.org/10.48420/28022981.v1), published under CC BY 4.0,
+and accompanies the [2025 review by Schultz, Young, and
+Kirshbaum](https://doi.org/10.1175/MWR-D-24-0139.1). Its original fields and
+this project's derived labels are identified in the
+[benchmark source note](Data/discovery/benchmark/README.md).
 
 ## Interpretation
 
@@ -29,7 +36,9 @@ The locked prompt for each experiment is at `Data/<experiment>/prompt.md`.
 - In the discovery omission audit, `SP101` is a legacy audit row excluded from
   the manuscript's 41-paper missed set. The clean per-paper table follows the
   manuscript. `missed_manual_required` is defined only among missed papers; it
-  is not a corpus-wide open-access classification.
+  is not a corpus-wide open-access classification. Join discovery results to
+  `Data/discovery/benchmark/benchmark_reference.csv` by `source_id`; benchmark
+  labels and bibliographic fields are not model findings.
 - The authentication figure uses OpenAlex open-access status, available for 96
   of the 102 articles. The other six are marked `uncovered` in the clean table.
 - The raw automated quotation check flagged 14 missing-text results. Manual
@@ -52,7 +61,8 @@ review with locator unresolved; `A` = wording altered; `n` = no quote offered.
 These codes are not a complete manual page-location audit.
 
 The `SPxxx` identifiers are local corpus IDs, not the published benchmark's row
-numbers. `Data/discovery/corpus_metadata.csv` includes the crosswalk.
+numbers. The credited benchmark reference includes the original database
+numbers and the crosswalk; see its [source note](Data/discovery/benchmark/README.md).
 
 Publisher-hosted article PDFs, the full benchmark database, private browser
 authentication material, and named reviewer correspondence are not included.
