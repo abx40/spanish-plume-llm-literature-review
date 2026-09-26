@@ -19,5 +19,5 @@ within the Scientific Literature*. Monthly Weather Review.
 
 The original workbook and its full set of classifications are available from
 the dataset DOI. This folder contains only the fields needed to identify and
-stratify the papers for the discovery comparison. The model matches and this
-project's audit are in the parent `discovery/` folder.
+stratify the papers for the discovery comparison. Model matches are in the
+parent `discovery/` folder. The post-search audit is in `Data/access_barriers/`.

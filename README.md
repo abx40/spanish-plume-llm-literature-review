@@ -9,9 +9,10 @@ Plume* (draft manuscript, September 2026).
 Each experiment has clean tables directly in its folder. Original model outputs
 and ratings are in that experiment's `raw_data/` subfolder.
 
-| Experiment | Raw data | Clean data |
+| Section | Source material | Published tables |
 | --- | --- | --- |
-| `Data/discovery/` | Five open-search model reports. | Model matches, journal recall, and omission audit. The separately credited benchmark reference is in `benchmark/`. |
+| `Data/discovery/` | Five open-search model reports. | Model match counts and per-paper pooled matches. The separately credited benchmark reference is in `benchmark/`. |
+| `Data/access_barriers/` | The discovery reports above are the source outputs. | The separate post-search omission/access audit and journal-level comparison. |
 | `Data/authentication/` | Codex and Claude Code search reports before and after university login. | Per-paper matches and before/after benchmark recall. |
 | `Data/reading/` | Three complete 102-row model-built evidence tables, the first automated quotation check, and manual review corrections. | Database scores and corrected per-paper coding/quotation verdicts. |
 | `Data/synthesis/` | Three raw ten-theme syntheses and anonymized per-theme reviewer ratings. | Reviewer means, citation coverage, and per-paper citation flags. |
@@ -33,10 +34,9 @@ this project's derived labels are identified in the
   was not otherwise uniform. They are separate from the paired authentication
   experiment. Model-reported eligible totals in the raw search reports are not
   the same measure as matches to the 102-paper benchmark.
-- In the discovery omission audit, `SP101` is a legacy audit row excluded from
-  the manuscript's 41-paper missed set. The clean per-paper table follows the
-  manuscript. `missed_manual_required` is defined only among missed papers; it
-  is not a corpus-wide open-access classification. Join discovery results to
+- The access-barrier omission audit excludes legacy row `SP101` from the
+  manuscript's 41-paper missed set. It is a post-search analysis, not a model
+  output. Join discovery results to
   `Data/discovery/benchmark/benchmark_reference.csv` by `source_id`; benchmark
   labels and bibliographic fields are not model findings.
 - The authentication figure uses OpenAlex open-access status, available for 96
