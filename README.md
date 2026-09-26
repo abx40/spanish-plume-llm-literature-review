@@ -6,8 +6,8 @@ Plume* (draft manuscript, September 2026).
 
 ## Layout
 
-Each experiment has its own `raw_data` (model outputs or original ratings) and
-`clean_data` (matched, checked, or aggregated results used in the report).
+Each experiment has clean tables directly in its folder. Original model outputs
+and ratings are in that experiment's `raw_data/` subfolder.
 
 | Experiment | Raw data | Clean data |
 | --- | --- | --- |
@@ -35,7 +35,7 @@ The locked prompt for each experiment is at `Data/<experiment>/prompt.md`.
 - The raw automated quotation check flagged 14 missing-text results. Manual
   review found seven verbatim matches and seven altered quotations.
   `Data/reading/raw_data/manual_quote_review.json` records this review, and
-  the corrected verdicts are in `clean_data/per_paper_coding_and_quote_check.csv`.
+  the corrected verdicts are in `Data/reading/per_paper_coding_and_quote_check.csv`.
   A verbatim-text verdict does not establish that the model's page locator is
   correct; the code meanings are described below.
 - Reviewer A and B are anonymized. The raw ratings use Synthesis 1 =
@@ -52,7 +52,7 @@ review with locator unresolved; `A` = wording altered; `n` = no quote offered.
 These codes are not a complete manual page-location audit.
 
 The `SPxxx` identifiers are local corpus IDs, not the published benchmark's row
-numbers. `Data/discovery/clean_data/corpus_metadata.csv` includes the crosswalk.
+numbers. `Data/discovery/corpus_metadata.csv` includes the crosswalk.
 
 Publisher-hosted article PDFs, the full benchmark database, private browser
 authentication material, and named reviewer correspondence are not included.
