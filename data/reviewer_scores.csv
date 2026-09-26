@@ -1,0 +1,7 @@
+reviewer,system,quality,depth,veracity,insight,utility,mean
+A,NotebookLM,4.2,3.3,4.2,3.4,3.3,3.68
+A,Codex,3.6,3.0,3.7,3.2,3.2,3.34
+A,Claude,4.4,4.3,4.3,4.2,4.4,4.32
+B,NotebookLM,2.9,2.6,3.7,2.3,2.4,2.78
+B,Codex,3.1,2.9,3.8,2.4,2.4,2.92
+B,Claude,2.8,2.9,3.6,2.5,2.3,2.82

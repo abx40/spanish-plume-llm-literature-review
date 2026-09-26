@@ -1,0 +1,10 @@
+journal,publisher,articles_in_corpus,found,recall_percent
+Weather and Forecasting,AMS,5,5,100
+International Journal of Climatology,Wiley (RMetS),6,6,100
+Natural Hazards and Earth System Sciences,Copernicus,3,3,100
+Monthly Weather Review,AMS,4,3,75
+Journal of Geophysical Research: Atmospheres,Wiley (AGU),3,2,67
+Quarterly Journal of the Royal Meteorological Society,Wiley (RMetS),14,9,64
+Atmospheric Research,Elsevier,7,4,57
+Weather,Wiley (RMetS),37,15,41
+Meteorological Applications,Wiley (RMetS),3,1,33

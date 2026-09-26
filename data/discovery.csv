@@ -1,0 +1,8 @@
+system,type,benchmark_articles_found
+Codex (GPT-5.6 Sol),coding agent,42
+ChatGPT Deep Research (GPT-5.6 Sol),online assistant,40
+Gemini Deep Research (Gemini 3.1 Pro),online assistant,35
+Claude Code (Claude Opus 5),coding agent,15
+Claude web (Claude Opus 5),online assistant,7
+Found by at least one system,pooled result,61
+Found by none,pooled result,41

@@ -1,0 +1,13 @@
+metric,unit,denominator,codex,notebooklm,claude
+Substantive articles correct,count,18,18,18,18
+Passing mentions misclassified,count,84,66,65,34
+Accuracy on passing/substantive,percent,102,35,36,67
+Cohen kappa on passing/substantive,score,,0.09,0.09,0.34
+Airstream sense accuracy,percent,102,65,71,70
+Synoptic-pattern sense accuracy,percent,102,71,64,75
+Configuration correct,count,8,6,7,7
+Prefrontal trough correct,count,7,1,6,4
+Prefrontal trough false positives,count,,0,33,10
+Quotations offered,count,102,100,101,101
+Quotations word for word,count,,100,94,101
+Quotations with wording altered,count,,0,7,0
