@@ -1,4 +1,4 @@
-# DRAFT: Structured Evidence-Table Prompt
+# Final Structured Evidence-Table Prompt
 
 Using only the supplied corpus index and PDFs SP001-SP102, create one structured
 evidence-table row for every paper in exact SP-number order.
