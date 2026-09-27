@@ -1,0 +1,7 @@
+system,type,raw_records_reported,unique_candidates_reported,additional_eligible_records,eligible_claimed,eligible_itemized,benchmark_matches_documented
+Codex (GPT-5.6 Sol),coding agent,88,88,13,42,42,42
+ChatGPT Deep Research (GPT-5.6 Sol),online assistant,,61,,40,40,40
+Gemini Deep Research (Gemini 3.1 Pro),online assistant,277,185,,35,16,16
+Claude Code (Claude Opus 5),coding agent,159,130,,15,15,15
+Claude web (Claude Opus 5),online assistant,,13,,7,7,7
+At least one itemized list,pooled,,,,,,57

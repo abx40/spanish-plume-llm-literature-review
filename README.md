@@ -11,8 +11,8 @@ and ratings are in that experiment's `raw_data/` subfolder.
 
 | Section | Source material | Published tables |
 | --- | --- | --- |
-| `Data/discovery/` | Five open-search model reports. | Model match counts and per-paper pooled matches. The separately credited benchmark reference is in `benchmark/`. |
-| `Data/access_barriers/` | The discovery reports above are the source outputs. | The separate post-search omission/access audit and journal-level comparison. |
+| `Data/discovery/` | Five open-search model reports. | Candidate and eligibility claims, documented benchmark matches, and a per-paper five-tool matrix. The separately credited benchmark reference is in `benchmark/`. |
+| `Data/access_barriers/` | Corpus retrieval record and the discovery matches above. | Per-paper retrieval route and descriptive journal-level comparison. |
 | `Data/authentication/` | Codex and Claude Code search reports before and after university login. | Per-paper matches and before/after benchmark recall. |
 | `Data/reading/` | Three complete 102-row model-built evidence tables, the first automated quotation check, and manual review corrections. | Database scores and corrected per-paper coding/quotation verdicts. |
 | `Data/synthesis/` | Three raw ten-theme syntheses and anonymized per-theme reviewer ratings. | Reviewer means, citation coverage, and per-paper citation flags. |
@@ -34,9 +34,11 @@ this project's derived labels are identified in the
   was not otherwise uniform. They are separate from the paired authentication
   experiment. Model-reported eligible totals in the raw search reports are not
   the same measure as matches to the 102-paper benchmark.
-- The access-barrier omission audit excludes legacy row `SP101` from the
-  manuscript's 41-paper missed set. It is a post-search analysis, not a model
-  output. Join discovery results to
+- Gemini claimed 35 eligible articles but itemized only 16. Across the five
+  saved itemized lists, 57 distinct benchmark articles are documented; the
+  other 45 are not documented as found, not verified omissions. The earlier
+  61/41 result used different model runs and is not combined with this cohort.
+  See the [discovery source note](Data/discovery/README.md). Join results to
   `Data/discovery/benchmark/benchmark_reference.csv` by `source_id`; benchmark
   labels and bibliographic fields are not model findings.
 - The authentication figure uses OpenAlex open-access status, available for 96
