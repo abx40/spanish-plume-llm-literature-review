@@ -2,7 +2,7 @@ source_id,year,benchmark_class,codex_before,codex_after,claude_before,claude_aft
 SP001,1968,essential,0,1,0,1,open
 SP002,1968,passing,0,0,0,0,uncovered
 SP003,1986,essential,0,1,0,0,uncovered
-SP004,1993,informative,0,1,0,0,paywalled
+SP004,1993,informative,0,1,0,1,paywalled
 SP005,1995,informative,0,1,0,1,paywalled
 SP006,1995,passing,0,1,0,0,paywalled
 SP007,1996,passing,0,0,0,0,uncovered
@@ -75,7 +75,7 @@ SP073,2019,passing,1,1,1,1,open
 SP074,2019,passing,0,1,0,1,open
 SP075,2019,passing,1,1,0,1,paywalled
 SP076,2020,informative,1,1,0,1,paywalled
-SP077,2020,informative,1,1,0,0,open
+SP077,2020,informative,1,1,0,1,open
 SP078,2020,passing,1,1,1,1,open
 SP079,2020,passing,1,1,0,1,paywalled
 SP080,2020,passing,1,1,1,0,open
