@@ -41,8 +41,11 @@ this project's derived labels are identified in the
   See the [discovery source note](Data/discovery/README.md). Join results to
   `Data/discovery/benchmark/benchmark_reference.csv` by `source_id`; benchmark
   labels and bibliographic fields are not model findings.
-- The authentication figure uses OpenAlex open-access status, available for 96
-  of the 102 articles. The other six are marked `uncovered` in the clean table.
+- The before/after login figure groups articles by publisher, taken from the
+  benchmark's journal names (`publisher_group` in
+  `Data/authentication/per_paper_matches.csv`). A publisher group is not an
+  access label: some articles in subscription journals are free to read. No
+  article-level open-access classification is used.
 - The raw automated quotation check flagged 14 missing-text results. Manual
   review found seven verbatim matches and seven altered quotations.
   `Data/reading/raw_data/manual_quote_review.json` records this review, and

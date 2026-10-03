@@ -14,3 +14,10 @@ Waters, 1993, report row 2) and SP077 (Steeneveld and Peerlings, 2020, report
 row 58), which were omitted from an earlier match list. Eleven further
 candidates that Claude marked unverified are not counted. The resulting
 paired counts are Codex 42 to 82 and Claude Code 15 to 79.
+
+`publisher_group` in `per_paper_matches.csv` is the platform each article's
+journal is published on (Wiley, AMS, Elsevier, Copernicus, MDPI, Springer, or
+Other), assigned from the benchmark's journal name. Wiley includes the Royal
+Meteorological Society journals and the American Geophysical Union journals on
+its platform. The group does not indicate whether an article is free to read.
+`Figures/plot_data/publisher_login.csv` gives the counts by group.
