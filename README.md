@@ -51,7 +51,10 @@ this project's derived labels are identified in the
   `Data/reading/raw_data/manual_quote_review.json` records this review, and
   the corrected verdicts are in `Data/reading/per_paper_coding_and_quote_check.csv`.
   A verbatim-text verdict does not establish that the model's page locator is
-  correct; the code meanings are described below.
+  correct; the code meanings are described below. Six NotebookLM quotations
+  confirmed on manual review had no page verdict; their pages were checked by
+  hand against the supplied PDFs, and the result is recorded in
+  `Data/reading/notebooklm_page_check.csv`.
 - Reviewer A and B are anonymized. The raw ratings use Synthesis 1 =
   NotebookLM, 2 = Codex, and 3 = Claude Code; the clean means use model names.
   The raw syntheses are original model outputs and may contain incorrect claims
@@ -61,9 +64,9 @@ this project's derived labels are identified in the
 
 Quotation-verdict codes in the clean reading table: `P` = verbatim on the
 stated PDF page; `J` = verbatim when the locator is interpreted as a printed
-journal page; `X` = verbatim elsewhere in the article; `V` = verbatim on manual
-review with locator unresolved; `A` = wording altered; `n` = no quote offered.
-These codes are not a complete manual page-location audit.
+journal page; `X` = verbatim elsewhere in the article; `A` = wording altered;
+`n` = no quote offered. A quotation that runs across two pages counts as on the
+stated page if it starts or mostly lies there.
 
 The `SPxxx` identifiers are local corpus IDs, not the published benchmark's row
 numbers. The credited benchmark reference includes the original database

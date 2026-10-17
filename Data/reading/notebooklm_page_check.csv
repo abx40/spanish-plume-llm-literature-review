@@ -1,0 +1,7 @@
+source_id,page_given,pdf_page_of_quotation,printed_page_of_that_pdf_page,verdict,note
+SP006,242,4,242,J,
+SP013,234,1,234,J,quotation contains an ellipsis
+SP014,2,1-2,113-114,P,quotation starts on the last line of PDF page 1 and continues on page 2
+SP048,2,1,143,X,quotation contains an ellipsis
+SP062,1323,5-6,1323-1324,J,quotation starts on PDF page 5 and continues on page 6
+SP099,6,3,6,J,
