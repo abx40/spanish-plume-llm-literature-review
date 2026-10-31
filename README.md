@@ -1,8 +1,8 @@
 # Spanish Plume LLM literature-review experiments
 
 This repository holds the data used in *Can Large Language Models Review the
-Scientific Literature? A Test Against a 102-Article Benchmark on the Spanish
-Plume* (draft manuscript, September 2026).
+Scientific Literature? A Test Against a 102-Article Benchmark* (manuscript in
+preparation, 2026).
 
 ## Layout
 

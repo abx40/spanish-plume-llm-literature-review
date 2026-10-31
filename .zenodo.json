@@ -1,0 +1,25 @@
+{
+  "title": "Data for \"Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark\"",
+  "upload_type": "dataset",
+  "description": "<p>Data, prompts, raw tool outputs and figure data for a study testing whether AI tools can carry out the steps of a scientific literature review, against a published, manually constructed review of the Spanish plume literature (102 articles; Schultz et al. 2025, Monthly Weather Review). The study covers four steps: finding the articles, interpreting them, synthesizing across them, and proposing future work. Each experiment folder holds its locked prompt, the original tool outputs, and clean per-article tables. Publisher-hosted article PDFs and the benchmark's full database are not included.</p>",
+  "creators": [
+    {"name": "Al Kalbani, Abdullah", "affiliation": "The University of Manchester"},
+    {"name": "Schultz, David M.", "affiliation": "The University of Manchester"},
+    {"name": "Anderson-Frey, Alexandra K.", "affiliation": "University of Washington"},
+    {"name": "Zheng, Zhonghua", "affiliation": "The University of Manchester"},
+    {"name": "McGuire, Catherine", "affiliation": "The University of Manchester"}
+  ],
+  "keywords": [
+    "large language models",
+    "literature review",
+    "AI tools",
+    "benchmark",
+    "Spanish plume",
+    "meteorology"
+  ],
+  "license": "cc-by-4.0",
+  "related_identifiers": [
+    {"identifier": "10.1175/MWR-D-24-0139.1", "relation": "references", "scheme": "doi"},
+    {"identifier": "10.48420/28022981", "relation": "isDerivedFrom", "scheme": "doi"}
+  ]
+}
