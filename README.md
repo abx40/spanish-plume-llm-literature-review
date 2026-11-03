@@ -18,7 +18,7 @@ and ratings are in that experiment's `raw_data/` subfolder.
 | `Data/synthesis/` | Three raw ten-theme syntheses and anonymized per-theme reviewer ratings. | Reviewer means, citation coverage, and per-paper citation flags. |
 
 The locked prompt for each experiment is at `Data/<experiment>/prompt.md`.
-`Figures/images/` contains only the five figures in the manuscript;
+`Figures/images/` contains only the six data figures in the manuscript;
 `Figures/plot_data/` contains the values plotted in each one.
 
 The discovery benchmark is adapted from [Schultz, Lowe, and Herrerias Azcue's

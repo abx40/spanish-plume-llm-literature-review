@@ -1,7 +1,7 @@
-tool,benchmark_class,classified_substantive,classified_passing
-Codex,substantive,18,0
+tool,benchmark_class,classified_substantial,classified_passing
+Codex,substantial,18,0
 Codex,passing,66,18
-NotebookLM,substantive,18,0
+NotebookLM,substantial,18,0
 NotebookLM,passing,65,19
-Claude,substantive,18,0
+Claude,substantial,18,0
 Claude,passing,34,50
