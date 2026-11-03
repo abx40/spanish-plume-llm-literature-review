@@ -20,6 +20,8 @@ and ratings are in that experiment's `raw_data/` subfolder.
 The locked prompt for each experiment is at `Data/<experiment>/prompt.md`.
 `Figures/images/` contains only the six data figures in the manuscript;
 `Figures/plot_data/` contains the values plotted in each one.
+`scripts/` redraws every figure from these files and recomputes the manuscript's
+numbers; see the [scripts note](scripts/README.md).
 
 The discovery benchmark is adapted from [Schultz, Lowe, and Herrerias Azcue's
 2024 dataset](https://doi.org/10.48420/28022981.v1), published under CC BY 4.0,
@@ -76,3 +78,14 @@ Publisher-hosted article PDFs, the full benchmark database, private browser
 authentication material, and named reviewer correspondence are not included.
 The model-built tables contain model-extracted quotations; consult the original
 articles and their rights holders before reusing that text.
+
+## Licence
+
+The contents of this repository are released under the
+[Creative Commons Attribution 4.0 International licence (CC BY 4.0)](LICENSE),
+except where stated above: the benchmark reference keeps the credit and licence of
+its source dataset, and quotations from the articles remain the property of their
+rights holders. Please cite the archive as Al Kalbani, A., D. M. Schultz,
+A. K. Anderson-Frey, Z. Zheng, and C. McGuire, 2026: Data for "Can Large Language
+Models Review the Scientific Literature? A Test Against a 102-Article Benchmark".
+Zenodo, https://doi.org/10.5281/zenodo.23849039.
