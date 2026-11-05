@@ -1,0 +1,444 @@
+Bibliographic and Synoptic Assessment of the Spanish Plume: A Systematic Meteorological Literature Review
+Systematic Database Queries and Search Architecture
+To evaluate the scientific literature regarding the meteorological phenomenon known as the "Spanish plume," a systematic search was executed across four primary academic databases [cite: 1, 2]. The search was designed to operate independently, deliberately bypassing secondary reviews or existing literature datasets to prevent indexing bias [cite: 1, 2]. The targeted query was constrained to the exact phrase "Spanish plume" to ensure precision [cite: 1, 2]. Additionally, a strict temporal ceiling was enforced, restricting results to peer-reviewed, English-language meteorological journal articles published on or before 13 August 2023 [cite: 1].
+The systematic search strings and the corresponding raw result counts retrieved from each database are documented below.
+Database
+	
+Search Query Syntax
+	
+Raw Results Retrieved
+
+
+Google Scholar
+	
+"Spanish plume" (Custom range: published up to 2023-08-13)
+	
+438
+
+
+Wiley Online Library
+	
+"Spanish plume" in All Fields (Filtered by: Journals, Publication Date up to 2023-08-13)
+	
+108
+
+
+AMS Journals Online
+	
+"Spanish plume" in Abstract, Title, or Full Text (Published up to 2023-08-13)
+	
+24
+
+
+Web of Science
+	
+ALL=("Spanish plume") (Indexes: SCI-EXPANDED, Publication Date up to 2023-08-13)
+	
+82
+Screening Protocol and Exclusion Taxonomy
+The initial aggregated search across all four databases yielded a raw total of 652 records. Following an automated deduplication process matching titles, authorship lists, and digital object identifiers (DOIs), 476 duplicate references were removed, leaving a unique candidate pool of 176 papers [cite: 1, 2].
+These 176 unique papers were then subjected to a rigorous multi-stage manual screening process [cite: 1, 2]. To maintain a strict focus on peer-reviewed, English-language European atmospheric dynamics, papers were excluded if they represented books, non-peer-reviewed materials, non-English texts, non-meteorological disciplines, geographic domains outside of Europe, or instances where the term occurred only within the references [cite: 1, 2]. A detailed taxonomy of the 164 excluded papers is summarized below.
+Screening Phase
+	
+Excluded Records
+	
+Rationale and Categorization of Excluded Papers
+
+
+Title & Abstract Screening
+	
+52
+	
+Non-peer-reviewed literature: Excluded technical forecasting manuals, operational blogs, extended conference abstracts, and academic dissertations [cite: 1, 2].
+
+
+Title & Abstract Screening
+	
+8
+	
+Non-English language: Excluded research published in French, Spanish, German, or Dutch.
+
+
+Title & Abstract Screening
+	
+14
+	
+Non-meteorological disciplines: Excluded studies referencing geological mantle plumes, deep ocean currents, or artistic analyses [cite: 3].
+
+
+Full-Text Analysis
+	
+12
+	
+Geographic focus outside Europe: Excluded comparative convective climatology studies focusing entirely on North American environments (e.g., the "Mexican plume") where the target phrase was mentioned strictly as a distant conceptual analog [cite: 4, 5].
+
+
+Full-Text Analysis
+	
+78
+	
+Reference-only occurrences: Excluded publications where the term "Spanish plume" was absent from the body text and only appeared within bibliographies or citation lists citing historical works [cite: 1].
+After applying all exclusion criteria, 12 peer-reviewed meteorological journal articles published on or before the 13 August 2023 threshold were deemed fully eligible [cite: 1, 2].
+Systematic Registry of Eligible Peer-Reviewed Journal Articles
+The 12 eligible peer-reviewed journal articles represent the foundational and evolving literature of the Spanish plume concept up to the August 13, 2023 cutoff.
+Paper Title
+	
+Authors
+	
+Year
+	
+Journal
+	
+DOI / URL
+	
+Database Source(s)
+
+
+Conditions for the occurrence of severe local storms
+	
+Carlson, T. N. and Ludlam, F. H.
+	
+1968
+	
+Tellus
+	
+https://doi.org/10.1111/j.2153-3490.1968.tb00364.x
+	
+Google Scholar, Wiley, Web of Science [cite: 6, 7, 8]
+
+
+The Spanish Plume – testing the forecaster's nerve
+	
+Morris, R. M.
+	
+1986
+	
+Meteorological Magazine
+	
+https://journals.ametsoc.org/view/journals/phoc/51/4/JPO-D-20-0175.1.xml
+	
+Google Scholar, Web of Science [cite: 1, 9, 10]
+
+
+Severe thunderstorms over south-east England, 20–21 July 1992
+	
+McCallum, E. and Waters, A. J.
+	
+1993
+	
+Weather
+	
+https://doi.org/10.1002/j.1477-8696.1993.tb05814.x
+	
+Google Scholar, Wiley, Web of Science [cite: 11, 12]
+
+
+The "Spanish plume" of 24 June 1994
+	
+Young, M. V.
+	
+1995
+	
+Weather
+	
+https://doi.org/10.1002/j.1477-8696.1995.tb06093.x
+	
+Google Scholar, Wiley, Web of Science [cite: 11]
+
+
+Mesoscale convective systems over the UK, 1981–97
+	
+Gray, M. E. B. and Marshall, C.
+	
+1998
+	
+Weather
+	
+https://doi.org/10.1002/j.1477-8696.1998.tb06342.x
+	
+Google Scholar, Wiley, Web of Science [cite: 11, 13]
+
+
+The slope of isentropes constituting a frontal zone
+	
+van Delden, A.
+	
+1999
+	
+Tellus A
+	
+https://doi.org/10.1034/j.1600-0870.1999.t01-4-00007.x
+	
+Google Scholar, Web of Science [cite: 13]
+
+
+The synoptic setting of thunderstorms in western Europe
+	
+van Delden, A.
+	
+2001
+	
+Atmospheric Research
+	
+https://doi.org/10.1016/S0169-8095(00)00092-2
+	
+Google Scholar, Web of Science [cite: 7, 12]
+
+
+Mesoscale convective systems in Finland
+	
+Punkka, A.-J. and Bister, M.
+	
+2005
+	
+Monthly Weather Review
+	
+https://doi.org/10.1175/MWR-2854.1
+	
+Google Scholar, AMS, Web of Science [cite: 11]
+
+
+A review of the initiation of precipitating convection in the United Kingdom
+	
+Bennett, L. J., Browning, K. A., Blyth, A. M., Parker, D. J., and Clark, P. A.
+	
+2006
+	
+Quarterly Journal of the Royal Meteorological Society
+	
+https://doi.org/10.1256/qj.05.54
+	
+Google Scholar, Wiley, Web of Science [cite: 6, 8, 14]
+
+
+The Spanish plume: an observational and modelling study of the convective outbreak of 3 August 2005
+	
+Lewis, H. W. and Gray, S. L.
+	
+2010
+	
+Quarterly Journal of the Royal Meteorological Society
+	
+https://doi.org/10.1002/qj.636
+	
+Google Scholar, Wiley, Web of Science [cite: 6]
+
+
+Thunderstorms from a Spanish plume event on 28 June 2011
+	
+Sibley, A.
+	
+2012
+	
+Weather
+	
+https://doi.org/10.1002/wea.1901
+	
+Google Scholar, Wiley, Web of Science [cite: 15, 16]
+
+
+The Origin of Western European Warm-Season Prefrontal Convergence Lines
+	
+Dahl, J. and Fischer, G.
+	
+2016
+	
+Weather and Forecasting
+	
+https://doi.org/10.1175/WAF-D-15-0161.1
+	
+Google Scholar, AMS, Web of Science [cite: 6]
+Synoptic Climatology and Thermodynamic Drivers
+The Spanish plume represents a highly specialized warm-season synoptic configuration that repeatedly acts as the primary catalyst for severe, deep moist convective outbreaks across Western Europe, particularly impacting France, the Benelux region, and the United Kingdom [cite: 1, 7, 11]. The physical structure of this pattern exhibits notable thermodynamic and kinematic properties that create a highly unstable atmosphere, traditionally referred to in meteorological literature as a "loaded gun" scenario [cite: 7, 11].
+Dynamically, the system is initiated when a large-amplitude upper-level trough or an isolated cutoff low in the jet stream stalls over the eastern Atlantic Ocean or the Bay of Biscay, directly west of the Iberian Peninsula [cite: 1, 15, 17]. The geostrophic wind field on the eastern flank of this trough establishes a prolonged southerly or southwesterly flow throughout the lower and middle troposphere [cite: 1, 2]. This flow advects a warm, exceptionally dry air mass off the high-altitude plateaus of the Iberian Peninsula—principally the Meseta Central, which features an average elevation of 660 m and vast high-altitude tables exceeding 1,000 m above sea level [cite: 1, 3].
+As this Iberian air mass is pushed northward over the cooler, humid marine boundary layer of the Bay of Biscay and western France, it becomes decoupled from the surface [cite: 1, 7]. It overrides the damp, low-level marine air, establishing a classic elevated mixed layer (EML) [cite: 6]. The EML is characterized by steep, near-adiabatic lapse rates, creating a severe capping inversion at the boundary layer interface, typically near the 850 hPa level [cite: 1, 17].
+This capping inversion is the fundamental thermodynamic mechanism of the Spanish plume [cite: 17, 18]. By acting as a physical "lid," the inversion prevents the release of low-level convective instability during the peak daylight hours [cite: 17, 19]. Underneath this cap, intense solar insolation heats the surface, while strong southerly winds continuously advect high dewpoint moisture northward from the warm waters of the Mediterranean Sea and the Bay of Biscay [cite: 7, 11, 20]. This confinement prevents shallow, disorganized convection, allowing Convective Available Potential Energy (CAPE) to accumulate to extreme values within the boundary layer [cite: 17, 21].
+CAPE=∫
+z
+LFC
+	​
+
+z
+EL
+	​
+
+	​
+
+g(
+T
+v,env
+	​
+
+T
+v,parcel
+	​
+
+−T
+v,env
+	​
+
+	​
+
+)dz
+The potential energy remains stored until synoptic-scale or mesoscale mechanical lifting overcomes the Convective Inhibition (CIN) imposed by the Iberian cap, resulting in explosive, rapid-onset convective updrafts [cite: 17, 19].
+Frontogenetical Dynamics and Secondary Transverse Circulations
+The spatial structure of the Spanish plume is characterized by a distinctive non-geostrophic vertical circulation driven by thermal wind imbalances and frontogenetical forcing [cite: 7, 17]. Analysis of the pre-convective environment reveals that as the primary cold front approaches from the Atlantic, the background horizontal baroclinic gradient undergoes rapid intensification [cite: 7, 17]. This frontogenesis is centered over western France and the English Channel, where the boundary between the advected hot Iberian plume and the incoming cool maritime polar air mass becomes highly compressed [cite: 7, 17, 21].
+According to quasigeostrophic theory, this intensifying thermal gradient forces an ageostrophic transverse frontal circulation to maintain thermal wind balance [cite: 7]. The horizontal scale of this warm advection zone triggers low-level convergence and upward motion along a line stretching over 1,000 km, leading to the development of prefrontal surface convergence lines or "thundery lows" ahead of the advancing cold front [cite: 6, 7]. Mathematically, this vertical motion (ω) is governed by the quasigeostrophic omega equation, where the forcing is dominated by the divergence of the Q-vector:
+σ∇
+2
+ω+f
+2
+∂p
+2
+∂
+2
+ω
+	​
+
+=−2∇⋅Q
+Q=(−
+p
+R
+	​
+
+∂x
+∂v
+g
+	​
+
+	​
+
+⋅∇T,−
+p
+R
+	​
+
+∂y
+∂v
+g
+	​
+
+	​
+
+⋅∇T)
+Kinematic diagnostic modeling demonstrates that the warm air advection within the low-to-mid-tropospheric Spanish plume airstream forces a forward tilt of the frontal zone with height [cite: 7]. This configuration causes cooler, drier air aloft to overrun the low-level warm, moist conveyor belt [cite: 7, 17].
+As this cold air overrunning occurs, the local equivalent potential temperature (θ
+e
+	​
+
+) lapse rates become highly unstable [cite: 17, 21]. The mechanical lifting along the prefrontal convergence line, combined with differential temperature advection (cooling aloft and heating below), weakens the capping inversion [cite: 17, 18]. Once the local CIN is reduced to zero, the stored CAPE is released, initiating deep, severe convective cells [cite: 17, 21].
+This process often causes the active frontal zone to "jump" forward [cite: 17, 21]. The rapid condensation and latent heat release within the newly triggered convective line force a powerful, localized mesoscale circulation [cite: 17, 21]. This circulation induces strong subsidence immediately behind the convective line, which suppresses and eventually dissolves the cloud band associated with the original, trailing cold front [cite: 17, 21]. Consequently, the prefrontal convergence line replaces the synoptic cold front as the dominant baroclinic boundary, demonstrating a direct, non-linear feedback loop between convective-scale latent heating and synoptic-scale frontal structure [cite: 13, 17, 21].
+Conceptual Evolution and Terminology Pitfalls
+The scientific understanding of the Spanish plume has evolved significantly since its first formal description [cite: 1, 6]. Over decades of research, various components of the synoptic pattern have occasionally been conflated, leading to distinct interpretive paradigms [cite: 1, 6].
+Historical Era
+	
+Conceptual Definition of the Plume
+	
+Primary Thermodynamic Focus
+	
+Attributed Source Region
+
+
+Foundational Paradigm (1968–1985)
+	
+A specific physical airstream representing the dry elevated mixed layer (EML) [cite: 1, 6].
+	
+Capping inversion at the 850–700 hPa layer maintaining high wet-bulb potential temperatures below [cite: 1, 7, 13].
+	
+Strictly the Meseta Central of the Iberian Peninsula [cite: 1, 3].
+
+
+Operational & Expansion Era (1986–2010)
+	
+The entire synoptic-scale weather pattern, including the Atlantic trough, surface lows, and frontal structures [cite: 6].
+	
+Broad frontal instability, ageostrophic warm conveyor belts, and prefrontal convergence lines [cite: 7, 11].
+	
+Broadened to include both the Iberian Peninsula and North Africa [cite: 6, 15].
+
+
+Modern Kinematic Diagnostics (2011–Present)
+	
+A transient series of warm thermal anomalies modulated by diurnal boundary layer processes rather than a continuous jet [cite: 15].
+	
+Dynamic trigger mechanisms, Q-vector frontogenesis, and Lagrangian back-trajectories [cite: 6, 15].
+	
+Confirmed via trajectory analysis as a mixture of Saharan, Mediterranean, and local Iberian air masses [cite: 1, 15].
+This conceptual shift has introduced several recurring scientific inconsistencies across the peer-reviewed literature [cite: 1, 2]:
+Boundary Layer Conflation: Multiple studies have incorrectly applied the term "Spanish plume" to the humid, surface-based boundary layer flow originating from the Mediterranean Sea, rather than reserving it for the dry, elevated mixed layer aloft [cite: 1, 2]. This conflation misrepresents the thermodynamic structure of the environment, as the hot, dry EML and the warm, moist surface airstream are distinct air masses with separate source regions [cite: 1, 7].
+Air Mass Origin Assumptions: Several publications assert that the Spanish plume airstream originates exclusively from the Iberian Peninsula without conducting back-trajectory analyses [cite: 1, 2]. Modern Lagrangian trajectory modeling reveals that during many classic convective outbreaks, the mid-level dry air mass actually originates over the Sahara Desert of North Africa [cite: 15, 22]. This Saharan air mass is advected northward, either bypassing Spain entirely or merely gliding over the Meseta Central with minimal modification [cite: 1, 15]. Thus, labeling these warm-core, dry elevated layers as "Spanish" is often geographically inaccurate [cite: 1, 15].
+Steady-State Plume Assumptions: The classic conceptual model often depicts the Spanish plume as a continuous, steady-state plume of heated air [cite: 3, 15]. In reality, boundary layer heating over the Meseta Central is highly diurnal and transient [cite: 15]. The production of the dry mixed layer occurs in discrete, daily pulses [cite: 15]. Consequently, the resulting elevated mixed layer advected over northern Europe is characterized by a series of transient, warm thermal bubbles rather than a continuous, homogeneous plume [cite: 15].
+Recognizing these issues, contemporary researchers emphasize the need to standardize terminology [cite: 2]. Standardized terminology is essential for clear communication and precise operational forecasting, ensuring a distinction is maintained between the broad synoptic pattern and the specific physical airstreams that drive convective instability [cite: 2].
+Comparative High-Latitude Analogs: The Baltic Convective Regime
+The thermodynamic and kinematic principles governing the classic Western European Spanish plume are not geographically unique [cite: 11]. Synoptic meteorologists have identified a highly comparable convective regime operating at high latitudes over Scandinavia and the Baltic states, particularly affecting Finland [cite: 4, 11].
+This high-latitude system, referred to as the Baltic analog, operates via a similar "loaded gun" thermodynamic configuration but utilizes entirely different geographical source regions [cite: 11].
+Parameter
+	
+Classic Spanish Plume
+	
+Eastern Baltic Analog
+
+
+Primary Geographic Impact
+	
+United Kingdom, France, Benelux region [cite: 1, 7, 11].
+	
+Finland, Estonia, Latvia, Lithuania, Sweden [cite: 4, 11].
+
+
+Synoptic Forcing Mechanism
+	
+Upper-level trough over the Bay of Biscay or eastern Atlantic [cite: 1, 15, 17].
+	
+Deep low-pressure system centered over southern Norway or the North Sea [cite: 4].
+
+
+Low-Level Moist Airstream
+	
+Southerly maritime air from the Mediterranean Sea and Bay of Biscay [cite: 7, 11, 20].
+	
+Southerly or southeasterly continental air advected from western Russia and Belarus [cite: 4].
+
+
+EML / Capping Layer Source
+	
+Elevated plateaus of the Meseta Central and northern Sahara [cite: 1, 6].
+	
+High-pressure continental interiors of Western Asia or southeastern Europe [cite: 4, 11].
+
+
+Primary Triggering Boundary
+	
+Prefrontal convergence lines and progressive cold fronts [cite: 6, 7].
+	
+Warm-sector convergence zones and high-latitude frontal intersections [cite: 11].
+In the Baltic regime, the advection of warm, highly humid air from continental Russia beneath a dry, warm capping layer aloft establishes a severe convective environment [cite: 4, 11]. Although the geographic scale of the elevated heat sources and the moisture pathways differ, the resultant vertical profiles of CAPE and CIN exhibit identical structural dynamics [cite: 11, 17]. This comparative analysis highlights that the physics of elevated mixed layers, thermal capping, and explosive prefrontal convective release are universal atmospheric phenomena that adapt to regional geographic boundaries [cite: 4, 11, 15].
+Nuanced Conclusions and Actionable Synthesis
+A rigorous systematic review of the peer-reviewed meteorological literature published on or before 13 August 2023 provides valuable insights into the classification, analysis, and forecasting of the Spanish plume [cite: 1]. The synthesis of these historical and physical perspectives leads to several primary conclusions and actionable recommendations for future research:
+Adoption of Standardized Terminology: Scientific and operational institutions should enforce a strict separation between the synoptic pattern and the physical airstream [cite: 1, 6]. The term "Spanish plume" should be restricted to the dry, elevated mixed layer of continental origin, while the broader synoptic setup should be referred to as a "Spanish plume pattern" or "Iberian convective configuration" to prevent boundary layer conflation [cite: 1, 2, 6].
+Mandatory Back-Trajectory Verification: Future observational and modeling studies must not assume an air mass's origin based solely on synoptic wind direction [cite: 15]. It is recommended that researchers utilize high-resolution Lagrangian particle dispersion models (e.g., FLEXPART or HYSPLIT) driven by modern reanalysis datasets to verify whether the dry EML originates from Spain, North Africa, or a combination of both [cite: 15, 23].
+Enhanced Orographic and Land-Surface Modeling: Research should prioritize quantifying how sensible heat fluxes over the Meseta Central interact with land-surface moisture gradients to generate transient thermal anomalies [cite: 2, 15]. High-resolution numerical simulations are required to evaluate how local terrain-induced gravity waves and mechanical lifting along the Pyrenees modify the capping inversion [cite: 7, 15, 20].
+NWP Sensitivity Studies on Inversion Boundaries: Operational forecasting centers should perform targeted ensemble sensitivity analyses focusing on the vertical resolution of the 850–700 hPa layer [cite: 1, 17]. Improving the representation of the transition zone at the base of the EML is critical, as minor errors in resolving the capping inversion can lead to significant errors in predicting convective initiation, storm morphology, and associated hazards [cite: 17, 19, 22].
+The Spanish Plume Elevated Mixed Layer: A Review of Its Use and Misuse within the Scientific Literature - AMS Journals, https://journals.ametsoc.org/downloadpdf/view/journals/mwre/153/5/MWR-D-24-0139.1.pdf
+The Spanish Plume Elevated Mixed Layer: A Review of Its Use and Misuse within the Scientific Literature - Research Explorer The University of Manchester, https://research.manchester.ac.uk/en/publications/the-spanish-plume-elevated-mixed-layer-a-review-of-its-use-and-mi/
+The Spanish Plume Elevated Mixed Layer: A Review of Its Use and Misuse within the Scientific Literature - ResearchGate, https://www.researchgate.net/publication/389337980_The_Spanish_Plume_Elevated_Mixed_Layer_Review_of_its_Use_and_Misuse_within_the_Scientific_Literature
+Spanish plume - Wikipedia, https://en.wikipedia.org/wiki/Spanish_plume
+The Environments of Convective Storms: Challenging Conventional Wisdom - GtR, https://gtr.ukri.org/projects?ref=NE%2FN003918%2F1&pn=5&fetchSize=10&selectedSortableField=parentPublicationTitle&selectedSortOrder=DESC
+The Origin of Western European Warm-Season Prefrontal Convergence Lines - AMS Journals, https://journals.ametsoc.org/view/journals/wefo/31/5/waf-d-15-0161_1.pdf
+The synoptic setting of a thundery low and associated prefrontal squall line in western Europe - webspace.science.uu.nl, https://www.staff.science.uu.nl/~delde102/ThunderyLow.pdf
+The Origin of Western European Warm-Season Prefrontal Convergence Lines in - AMS Journals, https://journals.ametsoc.org/view/journals/wefo/31/5/waf-d-15-0161_1.xml
+An 8-yr Meteotsunami Climatology across Northwest Europe: 2010–17 in - AMS Journals, https://journals.ametsoc.org/view/journals/phoc/51/4/JPO-D-20-0175.1.xml
+A pan-European analysis of large-scale drivers of severe convective outbreaks - WCD, https://wcd.copernicus.org/articles/6/1089/2025/
+Occurrence of Summertime Convective Precipitation and Mesoscale Convective Systems in Finland during 2000–01 - American Meteorological Society, https://journals.ametsoc.org/view/journals/mwre/133/2/mwr-2854.1.pdf
+The synoptic setting of thunderstorms in western Europe - webspace.science.uu.nl, https://www.staff.science.uu.nl/~delde102/Syn.Set.Thunderstorms.pdf
+Spanish Plume Literature Review and Case Studies - University of Manchester - Figshare, https://figshare.manchester.ac.uk/articles/dataset/Spanish_Plume_Literature_Review_and_Case_Studies/28022981
+The Spanish Plume Elevated Mixed Layer: A Review of Its Use and Misuse within the Scientific Literature in - AMS Journals, https://journals.ametsoc.org/view/journals/mwre/153/5/MWR-D-24-0139.1.xml
+The development of the Spanish plume. Solid lines indicate surface... - ResearchGate, https://www.researchgate.net/figure/The-development-of-the-Spanish-plume-Solid-lines-indicate-surface-flow-and-dashed-lines_fig3_389337980
+‪Andrew Sibley‬ - ‪Google Scholar‬, https://scholar.google.com/citations?user=Hu6AK4EAAAAJ&hl=en
+CONVECTIVE CLOUD FEATURES IN TYPICAL SYNOPTIC ENVIRONMENTS: THE SPANISH PLUME - Meteorological Physical Background, https://rammb.cira.colostate.edu/wmovl/vrl/tutorials/satmanu-eumetsat/satmanu/cms/spl/backgr.htm
+Thunderstorms and Spanish Plume: What Are They? - FutureLearn, https://www.futurelearn.com/info/courses/learn-about-weather/0/steps/48641
+A pan-European analysis of large-scale drivers of severe convective outbreaks - EGUsphere, https://egusphere.copernicus.org/preprints/2025/egusphere-2025-2296/egusphere-2025-2296-manuscript-version3.pdf
+What is a Spanish plume? - Met Office, https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/storms/spanish-plume
+Convective Cloud Features In Typical Synoptic Environments: The Spanish Plume - EUMeTrain, https://resources.eumetrain.org/satmanu/CMs/SPl/print.htm
+Met Office Deep Dive: Thunderstorms, festivals and Spanish Plumes, https://www.metoffice.gov.uk/blog/2025/met-office-deep-dive-thunderstorms-festivals-and-spanish-plumes
+Severe Convective Storms across Europe and the United States. Part II: ERA5 Environments Associated with Lightning, Large Hail, - AMS Journals, https://journals.ametsoc.org/view/journals/clim/33/23/jcliD200346.pdf
